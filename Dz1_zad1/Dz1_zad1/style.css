@@ -1,0 +1,190 @@
+﻿body{
+   
+}
+.body_form {
+    background-color: lightgray;
+}
+.form1 {
+    width: 25%;
+    margin: 30px auto;
+    background-color: #052530;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.form_table {
+    width: 65%;
+    margin: 20px auto;
+}
+.div_form {
+    width: 100%;
+}
+.Label_form {
+    display: block;
+    color: #FDC513;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    margin: 10px 0 0 10px;
+}
+.input_form {
+    display: block;
+    border-style: none;
+    border-bottom: 1px solid #FDC513;
+    width: 87%;
+    margin: 10px auto;
+    background-color: #052530;
+    color: white;
+    font-size: 14px;
+    outline: none;
+    font-family: 'Open Sans', sans-serif;
+}
+.Uroven_form {
+    display: block;
+    width: 87%;
+    margin: 10px auto;
+    font-family: 'Open Sans', sans-serif;
+    outline: none;
+    border: 1px solid #FDC513;
+}
+.div_img {
+    width: 150px;
+    height: 150px;
+    margin: 10px auto;
+}
+.div_img img {
+    width: 100%;
+}
+.button_add {
+    display: block;
+    width: 87%;
+    margin: 45px auto 10px;
+    background-color: #052530;
+    border: 2px solid #FDC513;
+    color: #fdc513;
+    padding: 7px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.5s;
+}
+.link_button {
+    display: block;
+    width: 86%;
+    height: 26px;
+    margin: 0 auto 10px;
+    background-color: #052530;
+    border: 2px solid #FDC513;
+    text-align: center;
+    transition: 0.5s;
+    padding-top: 6px;
+    text-decoration: none;
+    color: #fdc513;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+.button_add:hover,
+.link_button:hover,
+.button_table:hover,
+.link_table:hover,
+.button_show:hover,
+.link_but:hover{
+    background-color: #fdc513;
+    color: #052530;
+}
+.body_table {
+    background-color: #052530;
+}
+.div_table {
+    width: 100%;
+    border: 1px solid #fdc513;
+}
+#Table1 {
+    width: 100%;
+}
+.row_glob {
+    background-color: #fdc513;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    font-size: 15px;
+    text-align: center;
+    color: #052530;
+}
+tr {
+    font-family: 'Open Sans', sans-serif;
+    color: #fdc513;
+    text-align: center;
+    font-size: 15px
+}
+td {
+    border: 1px solid #fdc513;
+}
+.link_but {
+    display: block;
+    margin: 0 auto;
+    text-decoration: none;
+    transition: 0.5s;
+    font-family: 'Open Sans', sans-serif;
+    color: #fdc513;
+    font-size: 13px;
+    border: 1px solid #fdc513;
+    width: 70%;
+    padding: 1px 0;
+}
+.button_table {
+    background-color: #052530;
+    color: #fdc513;
+    border: 1px solid #fdc513;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.5s;
+    margin: 2px;
+}
+.link_table {
+    display: block;
+    width: 70%;
+    height: 25px;
+    margin: 10px auto ;
+    background-color: #052530;
+    border: 2px solid #FDC513;
+    text-align: center;
+    transition: 0.5s;
+    padding-top: 4px;
+    text-decoration: none;
+    color: #fdc513;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+.div_rename {
+    position: relative;
+    width: 100%;
+}
+.drop_id {
+    display: block;
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    font-family: 'Open Sans', sans-serif;
+    width: 20%;
+    outline: none;
+    border: 1px solid #fdc513;
+}
+.top {
+    padding-top: 15px;
+}
+.button_show {
+    display: block;
+    margin: 10px auto 25px;
+    background-color: #052530;
+    color: #fdc513;
+    border: 1px solid #fdc513;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.5s;
+}
